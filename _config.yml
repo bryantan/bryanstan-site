@@ -1,11 +1,11 @@
 # Built with Jekyll 3.2.0
 
 # Setup
-title:               Ed.
-tagline:             'a jekyll theme for minimal editions'
-description:         'Ed is a Jekyll theme designed for textual editors based on minimal computing principles, and focused on legibility and flexibility.'
+title:               Bryan Tan
+tagline:             'words in progress'
+description:         "This is Bryan Tan's personal site."
 url:                 'https://www.bryanstan.com'
-baseurl:             '/'
+baseurl:             ''
 
 # About/contact
 author:
@@ -26,7 +26,7 @@ encoding: utf-8
 # Collections for texts
 collections:
   texts:
-    output: true
+    output: false
 
 # Markdown specs
 markdown: kramdown

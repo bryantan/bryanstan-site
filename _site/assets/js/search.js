@@ -14,7 +14,7 @@ var index = elasticlunr(function () {
 index.addDoc({
   title: "A Julia de Burgos",
   author: "Julia de Burgos",
-  layout: "poem",
+  layout: "poem-no-header",
   content: "\n  Ya las gentes murmuran que yo soy tu enemiga\n  \n    porque dicen que en verso doy al mundo mi yo.\n  \n  Mienten, Julia de Burgos. Mienten, Julia de Burgos.\n  La que se alza en mis versos no es tu voz: es mi voz\n  porque tú eres ropaje y la esencia soy yo; y el más\n  \n    profundo abismo se tiende entre las dos.\n  \n  Tú eres fria muñeca de mentira social,\n  \n    y yo, viril destello de la humana verdad.\n  \n  Tú, miel de cortesana hipocresías; yo no;\n  \n    que en todos mis poemas desnudo el corazón.\n  \n  Tú eres como tu mundo, egoísta;\n  \n    yo no; que en todo me lo juego a ser lo que soy yo.\n  \n  Tú eres sólo la grave señora señorona; yo no,\n  \n    yo soy la vida, la fuerza, la mujer.\n  \n  Tú eres de tu marido, de tu amo; yo no;\n  yo de nadie, o de todos, porque a todos, a\n  \n    todos en mi limpio sentir y en mi pensar me doy.\n  \n  Tú te rizas el pelo y te pintas; yo no;\n  \n    a mí me riza el viento, a mí me pinta el sol.\n  \n  Tú eres dama casera, resignada, sumisa,\n  atada a los prejuicios de los hombres; yo no;\n  que yo soy Rocinante corriendo desbocado\n  \n    olfateando horizontes de justicia de Dios.\n  \n  Tú en ti misma no mandas;\n  a ti todos te mandan; en ti mandan tu esposo, tus\n  padres, tus parientes, el cura, el modista,\n  el teatro, el casino, el auto,\n  las alhajas, el banquete, el champán, el cielo\n  \n    y el infierno, y el que dirán social.\n  \n  En mí no, que en mí manda mi solo corazón,\n  \n    mi solo pensamiento; quien manda en mí soy yo.\n  \n  Tú, flor de aristocracia; y yo, la flor del pueblo.\n  Tú en ti lo tienes todo y a todos se\n  \n    lo debes, mientras que yo, mi nada a nadie se la debo.\n  \n  Tú, clavada al estático dividendo ancestral,\n  y yo, un uno en la cifra del divisor\n  \n    social somos el duelo a muerte que se acerca fatal.\n  \n  Cuando las multitudes corran alborotadas\n  dejando atrás cenizas de injusticias quemadas,\n  y cuando con la tea de las siete virtudes,\n  tras los siete pecados, corran las multitudes,\n  contra ti, y contra todo lo injusto y lo inhumano,\n  yo iré en medio de ellas con la tea en la mano.\n\n",
   id: 0
 });
@@ -66,7 +66,7 @@ console.log( jQuery.type(index) );
 var store = [{
   "title": "A Julia de Burgos",
   "author": "Julia de Burgos",
-  "layout": "poem",
+  "layout": "poem-no-header",
   "link": "/texts/a-julia/",
 }
 ,{
@@ -133,7 +133,7 @@ function doSearch() {
   // Loop through, match, and add results
   for (var item in result) {
     var ref = result[item].ref;
-    var searchitem = '<div class="result"><p><a href="/ed'+store[ref].link+'?q='+query+'">'+store[ref].title+'</a></p></div>';
+    var searchitem = '<div class="result"><p><a href="'+store[ref].link+'?q='+query+'">'+store[ref].title+'</a></p></div>';
     resultdiv.append(searchitem);
   }
 }

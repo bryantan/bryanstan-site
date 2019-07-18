@@ -1,9 +1,12 @@
 ---
-layout: poem
+layout: poem-no-header
 title: A Julia de Burgos
 author: Julia de Burgos
 editor: Alex Gil
 source: Ciudad Seva
+filename: a-julia
+date: 2019-07-04
+tags: [poetry]
 ---
 
 - Ya las gentes murmuran que yo soy tu enemiga
