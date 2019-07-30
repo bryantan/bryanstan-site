@@ -1,0 +1,21 @@
+---
+layout: default-no-header
+---
+
+<div class="post">
+  <h1 class="text-title">
+     <a href="{{ site.baseurl }}/{{ page.filename }}">
+        {{ page.title }}
+     </a>
+  </h1>
+  <h2>
+     <a href="{{ page.articlelink }}">
+        {{ page.articlename }}
+     </a>
+  </h2>
+  {% assign text = site.texts
+      | where_exp:"text", "text.filename == page.filename" 
+      | first %}
+
+  {{ text.content }}
+</div>

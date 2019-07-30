@@ -4,7 +4,7 @@
  <title>Bryan Tan</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2019-07-18T20:42:54+01:00</updated>
+ <updated>2019-07-30T23:59:22+01:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Bryan Tan</name>
@@ -13,115 +13,117 @@
 
  
  <entry>
-   <title>A Julia de Burgos</title>
-   <link href="http://localhost:4000/a-julia/"/>
-   <updated>2019-07-04T00:00:00+01:00</updated>
-   <id>http://localhost:4000/a-julia</id>
+   <title>Taipei, a City of Rain</title>
+   <link href="http://localhost:4000/taipei-city-of-rain/"/>
+   <updated>2019-07-30T00:00:00+01:00</updated>
+   <id>http://localhost:4000/taipei-city-of-rain</id>
+   <content type="html">
+&lt;p&gt;Living in London now, the first reaction I get from most people when I say I moved from California is one of shock. California, to what seems like just about everyone, is a paradise in which the sun is ever unobscured and you drive your convertible, hood down, through radiant streets, and lie beside the sea on equally golden sands, day after day. Why would someone ever come here? There’s a rather pernicious belief underlying these reactions, held by both locals and anyone who knows anything about this city—that London is dreary, grey and rainy all the time. I wonder what it is that has made such a lie so pervasive; as someone who has spent a few years in Pittsburgh, I’m a bit offended when people think the weather here is unpleasant to the point of being the first thing someone thinks about when they hear the name of this city.&lt;/p&gt;
+
+&lt;p&gt;It’s worth noting, then, that ‘dreary’ is not the first thing that comes to mind when people talk about Taipei. Despite its penchant for both unleashing torrential downpours at unsuspecting hours and steadily drizzling for days on end, I suspect people don’t recall Taipei as cloudy and wet. It’s a city with a climate determined not by what the weather does from one day to the next, but by an unconsciousness yet visceral perception of its identity.&lt;/p&gt;
+
+&lt;p&gt;A brilliant day in London brings out colours once present, as though a haze removed from our eyes, an entity fundamentally unchanged, and hence we dwell upon, blame the grey that obscures the beauty of this city of centuries. Less of London when overcast and raining, more of it when the moments are bright, but, more or less, still the same. For Taipei, a city of a latitude that has but a passing notion of seasons, the changing of the months that evoke the romantic perception of the turning of time have been replaced by a day to day immediacy of the wrestling between a city and its heavens, the product of which is a place that has as many faces as names for its precipitation.&lt;/p&gt;
+
+&lt;p&gt;In this manner, the city of Taipei is reflected in its rain: it is patchwork, with a mind of its own; it heeds no calls, and resists the telling of its fortunes; it is to be immersed within, to be upon the earth. It is not a violent city, where the waters are unceasing and the inhabitants resigned in the rivers that course through the city, nor is it a wild one, one in which extremities are magnified and blessings and curses flow abundantly.&lt;/p&gt;
+
+&lt;p&gt;Taipei is not an idea, or an attitude, or a photograph; no sights are proclaimed, and no emotions are invoked by its name. Of its imperfections, many are seen at first glance: in worn streets, concrete free of refuse but dotted with permanent stains and blooming with sprawling cracks and fissures and wild flowers, and on the myriad buildings missing wall tiles and decorated with dark streaks flowing from windowsills and gutters, covered by half-torn election campaign posters and bright red numbers you can dial to hang an advertisement in its place. But it is a city of seven million, where travelers are invited to eat the same foods and walk the same roads as its inhabitants. In short, Taipei is human—just like its rain, not to be known, but to be lived alongside of.&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Offshore</title>
+   <link href="http://localhost:4000/offshore/"/>
+   <updated>2019-07-21T00:00:00+01:00</updated>
+   <id>http://localhost:4000/offshore</id>
    <content type="html">
 &lt;ul&gt;
-  &lt;li&gt;Ya las gentes murmuran que yo soy tu enemiga&lt;/li&gt;
+  &lt;li&gt;Endless is—2.9 miles&lt;/li&gt;
+  &lt;li&gt;the distance from the eye to the horizon&lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;porque dicen que en verso doy al mundo mi yo.&lt;/p&gt;
+    &lt;p&gt;and all the world one will ever see&lt;/p&gt;
   &lt;/li&gt;
-  &lt;li&gt;Mienten, &lt;em&gt;Julia de Burgos&lt;/em&gt;. Mienten, Julia de Burgos.&lt;/li&gt;
-  &lt;li&gt;La que se alza en mis versos no es tu voz: es mi voz&lt;/li&gt;
-  &lt;li&gt;porque tú eres &lt;a href=&quot;http://www.spanishdict.com/translate/ropaje&quot;&gt;ropaje&lt;/a&gt; y la esencia soy yo; y el más&lt;/li&gt;
+  &lt;li&gt;Endless is—a year, or three, or seven&lt;/li&gt;
+  &lt;li&gt;the duration between decisions&lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;profundo abismo se tiende entre las dos.&lt;/p&gt;
+    &lt;p&gt;and a lifetime of mistakes yet made&lt;/p&gt;
   &lt;/li&gt;
-  &lt;li&gt;Tú eres fria muñeca de mentira social,&lt;/li&gt;
+  &lt;li&gt;Endless, too, is yesterday, or tomorrow&lt;/li&gt;
+  &lt;li&gt;the time of memories, the time of possibilities&lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;y yo, viril destello de la humana verdad.&lt;/p&gt;
+    &lt;p&gt;and the moments that are not today&lt;/p&gt;
   &lt;/li&gt;
-  &lt;li&gt;Tú, miel de cortesana hipocresías; yo no;&lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;que en todos mis poemas desnudo el corazón.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Tú eres como tu mundo, egoísta;&lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;yo no; que en todo me lo juego a ser lo que soy yo.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Tú eres sólo la grave señora señorona; yo no,&lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;yo soy la vida, la fuerza, la mujer.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Tú eres de tu marido, de tu amo; yo no;&lt;/li&gt;
-  &lt;li&gt;yo de nadie, o de todos, porque a todos, a&lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;todos en mi limpio sentir y en mi pensar me doy.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Tú te rizas el pelo y te pintas; yo no;&lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;a mí me riza el viento, a mí me pinta el sol.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Tú eres dama casera, resignada, sumisa,&lt;/li&gt;
-  &lt;li&gt;atada a los prejuicios de los hombres; yo no;&lt;/li&gt;
-  &lt;li&gt;que yo soy Rocinante corriendo desbocado&lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;olfateando horizontes de justicia de Dios.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Tú en ti misma no mandas;&lt;/li&gt;
-  &lt;li&gt;a ti todos te mandan; en ti mandan tu esposo, tus&lt;/li&gt;
-  &lt;li&gt;padres, tus parientes, el cura, el modista,&lt;/li&gt;
-  &lt;li&gt;el teatro, el casino, el auto,&lt;/li&gt;
-  &lt;li&gt;las alhajas, el banquete, el champán, el cielo&lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;y el infierno, y el que dirán social.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;En mí no, que en mí manda mi solo corazón,&lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;mi solo pensamiento; quien manda en mí soy yo.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Tú, flor de aristocracia; y yo, la flor del pueblo.&lt;/li&gt;
-  &lt;li&gt;Tú en ti lo tienes todo y a todos se&lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;lo debes, mientras que yo, mi nada a nadie se la debo.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Tú, clavada al estático dividendo ancestral,&lt;/li&gt;
-  &lt;li&gt;y yo, un uno en la cifra del divisor&lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;social somos el duelo a muerte que se acerca fatal.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Cuando las multitudes corran alborotadas&lt;/li&gt;
-  &lt;li&gt;dejando atrás cenizas de injusticias quemadas,&lt;/li&gt;
-  &lt;li&gt;y cuando con la tea de las siete virtudes,&lt;/li&gt;
-  &lt;li&gt;tras los siete pecados, corran las multitudes,&lt;/li&gt;
-  &lt;li&gt;contra ti, y contra todo lo injusto y lo inhumano,&lt;/li&gt;
-  &lt;li&gt;yo iré en medio de ellas con la tea en la mano.&lt;/li&gt;
+  &lt;li&gt;And endless, endless is offshore&lt;/li&gt;
+  &lt;li&gt;the place beyond the oceans&lt;/li&gt;
+  &lt;li&gt;where storms rage and suns shine&lt;/li&gt;
+  &lt;li&gt;where the world lies, and where stories are untold&lt;/li&gt;
 &lt;/ul&gt;
 
 </content>
  </entry>
  
  <entry>
-   <title>Delayed till she had ceased to know</title>
-   <link href="http://localhost:4000/delayed/"/>
-   <updated>2019-07-03T00:00:00+01:00</updated>
-   <id>http://localhost:4000/delayed</id>
-   <content type="html">&lt;ul&gt;
-  &lt;li&gt;DELAYED till she had ceased to know,&lt;/li&gt;
-  &lt;li&gt;Delayed till in its vest of snow&lt;/li&gt;
-  &lt;li class=&quot;indent-2&quot;&gt;Her loving bosom lay.&lt;/li&gt;
-  &lt;li&gt;An hour behind the fleeting breath,&lt;/li&gt;
-  &lt;li&gt;Later by just an hour than death,—&lt;/li&gt;
-  &lt;li class=&quot;indent-2&quot;&gt;
-    &lt;p&gt;Oh, lagging yesterday!&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Could she have guessed that it would be;&lt;/li&gt;
-  &lt;li&gt;Could but a crier of the glee&lt;/li&gt;
-  &lt;li class=&quot;indent-2&quot;&gt;Have climbed the distant hill;&lt;/li&gt;
-  &lt;li&gt;Had not the bliss so slow a pace,—&lt;/li&gt;
-  &lt;li&gt;Who knows but this surrendered face&lt;/li&gt;
-  &lt;li class=&quot;indent-2&quot;&gt;
-    &lt;p&gt;Were undefeated still?&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Oh, if there may departing be&lt;/li&gt;
-  &lt;li&gt;Any forgot by victory&lt;/li&gt;
-  &lt;li class=&quot;indent-2&quot;&gt;In her imperial round,&lt;/li&gt;
-  &lt;li&gt;Show them this meek apparelled thing,&lt;/li&gt;
-  &lt;li&gt;That could not stop to be a king,&lt;/li&gt;
-  &lt;li class=&quot;indent-2&quot;&gt;Doubtful if it be crowned!&lt;/li&gt;
+   <title>Brighton</title>
+   <link href="http://localhost:4000/brighton/"/>
+   <updated>2019-07-21T00:00:00+01:00</updated>
+   <id>http://localhost:4000/brighton</id>
+   <content type="html">
+&lt;p&gt;It just occurred to me that I’ve never been to a beach with such a late sunset. It’s a shame, isn’t it? For the days to be long, in a place where there are no sands to sink your feet into. Yet to say so is a bit facetious; I am told there are some nice beaches somewhere in this country. Perhaps the shame is that such places are always further, rather than closer.
+On that note, I’ve heard people complain about this place. The beach is pebbly, the waters cold and murky, thoughts of the like. I wonder, what is it that informs our notion of the beauty of a place like this? Is it but a form that we have innate knowledge of? Are there colours we desire, ones that we would travel miles and days for? Or do we seek nothing but extremes, from the rugged solitude of cliffs beyond reach to an unimpeachable sense of do-nothingness invoked by warm summer haze and sands formed by the near-eternal coming and going of the tides? Is there beauty in the middling? Or—can there be beauty in the middling? If only your heart did not betray your answer.&lt;/p&gt;
+
+&lt;p&gt;I. There’s a couple making out on this beach. I wonder if it’s not uncomfortable; I suppose that is why they are fully clothed.&lt;br /&gt;
+II. Two people playing fetch here with their dogs. The catch is, well, the dogs never catch the thrown object—a pebble—and the object is never returned. Is it still a game of fetch if nothing is ever retrieved? I wonder too what the dogs think, but I imagine that they’d rather run than find.&lt;br /&gt;
+III. Speaking of long summer days, would a beach at a place with endless summer days be enjoyable? Do we seek out beginnings and endings? Or is it more so that there is beauty at such an hour?&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Hours, give or take</title>
+   <link href="http://localhost:4000/hours-give-or-take/"/>
+   <updated>2019-06-04T00:00:00+01:00</updated>
+   <id>http://localhost:4000/hours-give-or-take</id>
+   <content type="html">
+&lt;p&gt;4AM, and your eyes open, with the lucidity of one who has regained sight after a decade in darkness, to the muted room you fell asleep in some inadequate number of hours ago. The city is in a silver silence, save for the wind blowing over slicked asphalt roads and a heartbeat you named your own. You see, in visions of fireworks, as the one who moulded this diorama, and you command the multitudes, captivated by the shackles of slumber you have cast off. Here in the quiet you lord over all thoughts, all desires, and you expel them, leaving only a canvas of white that shall fade into colours as the day rises; still, you layer the primer and the paint, over and over, wordless, awake.&lt;/p&gt;
+
+&lt;p&gt;Sometime in the early afternoon, you sleep with a carnal ferocity, with a lust after the contours of those five minute dreams, vivid and ephemeral and gone before you can forget them, those dreams that you wished to have lasted longer and by which you come to despise the second, and third, and fourth notes of the song you had repeatedly and naïvely hoped would bring you gentle into the waking world, but instead plunge you deeper into irrational depths and immobile ecstasies of new moments thought to be old and old moments thought to be new and a numbing disorientation/disorienting numbness oppressive and vague and blue/green and calling you to believe in the reality of it all—or nothing at all.&lt;/p&gt;
+
+&lt;p&gt;You’ve just made it to your desk, but have somehow spent all the effort required in a day of work just to put down your backpack, with no results (or even attempts) to show for it. So you head for the espresso machine, pull two shots, pretend like you are capable of latte art, and stare into an amateur Rorschach test haphazardly administered and invoking nothing but anger and a dull and ambiguous gastric discomfort telling you you’ve had both too much and too little. It heeds you to find answers; you walk back to your spot and sit down, sipping away at the asymmetries, and put each thing in front of you into its place. And then you get up, to go make your second cup of coffee.&lt;/p&gt;
+
+&lt;p&gt;It’s a bit past midnight, and your consciousness wavers somewhere between ‘pretty awake’ and ‘could go to bed in an hour or so’. You are assaulted by everything and nothing indiscriminately: Tlön and labyrinths, Kafka and Proteus, the ticking of the clock you thought you took the battery out of and the rising sun six thousand miles away. In some perverse, masochistic manner, I suppose you enjoy it, when the hours come and go, wild and effortless. It’s sacrilegious, a sin, you tell me, that the minutes are unaccounted for, but you are glad to be free, because there is nothing that makes you feel more alive, and that you enjoy journey and destination equally. I nod. It’s 4AM again.&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>A photo booth of four days</title>
+   <link href="http://localhost:4000/photo-booth-of-four-days/"/>
+   <updated>2019-05-25T00:00:00+01:00</updated>
+   <id>http://localhost:4000/photo-booth-of-four-days</id>
+   <content type="html">
+&lt;ul&gt;
+  &lt;li&gt;It’s a new season, but I’ve been gone for as many weeks,&lt;/li&gt;
+  &lt;li&gt;in as many months, as years since the last. A coincidence, to be sure&lt;/li&gt;
+  &lt;li&gt;(though I did fudge the numbers a little). They say it’s inauspicious—&lt;/li&gt;
+  &lt;li&gt;I suppose they too have never seen the stone among stones,&lt;/li&gt;
+  &lt;li&gt;and so heard the wrong tones, unfurled the wrong tongues.&lt;/li&gt;
+  &lt;li&gt;Such are the languages we speak: interchangeable, wrong, sufficient;&lt;/li&gt;
+  &lt;li&gt;still yet I listen, proud, indifferent, as though I may understand.&lt;/li&gt;
 &lt;/ul&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>SNAKISMS</title>
+   <link href="http://localhost:4000/snakisms/"/>
+   <updated>2015-07-14T00:00:00+01:00</updated>
+   <id>http://localhost:4000/snakisms</id>
+   <content type="html">
+&lt;p&gt;Okay, it’s not an article. Whatever.&lt;/p&gt;
+
+&lt;p&gt;The word ‘snakisms’ looks like it should be the anagram of something.&lt;/p&gt;
+
 </content>
  </entry>
  
