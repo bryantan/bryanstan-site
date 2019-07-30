@@ -2,7 +2,8 @@
 layout: page
 title: Places
 ---
-Intro text
+
+<br>
 
 {% for post in site.tags.places %}
    {% assign text = site.texts

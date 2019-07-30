@@ -2,7 +2,8 @@
 layout: page
 title: Poetry
 ---
-Intro text
+
+<br>
 
 {% for post in site.tags.poetry %}
    {% assign text = site.texts

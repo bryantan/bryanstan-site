@@ -2,7 +2,8 @@
 layout: page
 title: Reading
 ---
-Intro text
+
+<br>
 
 {% for post in site.tags.reading %}
    {% assign text = site.texts
