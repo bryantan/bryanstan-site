@@ -8,7 +8,7 @@ tags: [places, poetry]
 
 - Endless is—2.9 miles
 - the distance from the eye to the horizon
-- and all the world one will ever see
+- and all the sights one will ever see
 
 - Endless is—a year, or three, or seven
 - the duration between decisions
