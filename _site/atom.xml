@@ -4,13 +4,38 @@
  <title>Bryan Tan</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2019-07-31T00:28:03+01:00</updated>
+ <updated>2019-08-21T20:55:41+01:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Bryan Tan</name>
    <email>bryan.es.tan@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>New Yorker on Hacker News</title>
+   <link href="http://localhost:4000/new-yorker-on-hacker-news/"/>
+   <updated>2019-08-08T00:00:00+01:00</updated>
+   <id>http://localhost:4000/new-yorker-on-hacker-news</id>
+   <content type="html">
+&lt;p&gt;I love this. Something that I love, talking about something that I loathe to love (or love to loathe?). So many gems here, such as:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;The site’s now characteristic tone of performative erudition—hyperrational, dispassionate, contrarian, authoritative—often masks a deeper recklessness. Ill-advised citations proliferate; thought experiments abound; humane arguments are dismissed as emotional or irrational. Logic, applied narrowly, is used to justify broad moral positions.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;and:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Recently, an essay in the New Atlantis titled “Do Elephants Have Souls?,” from 2013, hit the front page. The piece generated immediate resistance. Commenters responded literally to the question posed in the title and bickered about the word “soul.” Conversation spiralled, with users making arguments about Cartesian metaphysics and quoting Socrates. “Why is such an unscientific question so high on HN?” one commenter asked. “Or to rephrase, if we don’t know what a soul is, how can we hope to answer it WRT elephants? So how and why should a reasoning person rate an article like this?”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Beyond the beautifully written disparagement of traits and mindsets common in the industry, there is a thoughtful look into what moderation on &lt;i&gt;Hacker News&lt;/i&gt; looks like and the challenges involved. Admittedly, this is supposed to be the whole point of the article, which was a little lost on me as I read through trying to find aspects of tech culture I dislike and descriptors I could co-opt into my own language. But bringing a more human side to moderating an online forum is difficult and not something commonly seen, and to see how well-received and appreciated the moderators’ work is was neat.&lt;/p&gt;
+
+&lt;p&gt;I may identify more with &lt;i&gt;The New Yorker&lt;/i&gt; than with &lt;i&gt;Hacker News&lt;/i&gt;, but in many ways I am closer to the latter than the former; I did find this article on &lt;i&gt;Hacker News&lt;/i&gt;, after all. To read this, then, feels like both an acknowledgement of these differences and a closing of the gap of sorts. And that, I am content in.&lt;/p&gt;
+
+</content>
+ </entry>
  
  <entry>
    <title>Taipei, a City of Rain</title>
@@ -32,6 +57,19 @@
  </entry>
  
  <entry>
+   <title>Was the Automotive Era a Terrible Mistake?</title>
+   <link href="http://localhost:4000/automotive-era-terrible-mistake/"/>
+   <updated>2019-07-22T00:00:00+01:00</updated>
+   <id>http://localhost:4000/automotive-era-terrible-mistake</id>
+   <content type="html">
+&lt;p&gt;I’ve never really wanted to own a car—it has always seemed to be quite the hassle, whether driving or parking, maintenance and insurance, or being both responsible for and at the whims of those around you. I probably could have saved dozens of hours of my life if I had a car back when I was in California; hopefully I’ve made up for it by the number of interesting and insightful (and inconsequential to anything save the sating of my curiousity) articles I’ve read in all those rideshares and Caltrain journeys. There is a freedom, though, in being able to drive. To be able to be somewhere on your own terms, at, more or less, your own time, to be able to go further than you would have on your own legs; to be alone on the road at night, within a kingdom that stretches as far as you can go, and safe from the elements, from the wild and the unknown. That’s why biking to me feels like a break from what we are conditioned to desire: personal liberty, efficiency, control. It’s even sweeter, of course, when you are faster on two wheels than someone on four.&lt;/p&gt;
+
+&lt;p&gt;The question itself is never answered outright, but I suppose solutions are more important than answers.&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
    <title>Offshore</title>
    <link href="http://localhost:4000/offshore/"/>
    <updated>2019-07-21T00:00:00+01:00</updated>
@@ -41,7 +79,7 @@
   &lt;li&gt;Endless is—2.9 miles&lt;/li&gt;
   &lt;li&gt;the distance from the eye to the horizon&lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;and all the world one will ever see&lt;/p&gt;
+    &lt;p&gt;and all the sights one will ever see&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;Endless is—a year, or three, or seven&lt;/li&gt;
   &lt;li&gt;the duration between decisions&lt;/li&gt;
@@ -72,7 +110,7 @@
 On that note, I’ve heard people complain about this place. The beach is pebbly, the waters cold and murky, thoughts of the like. I wonder, what is it that informs our notion of the beauty of a place like this? Is it but a form that we have innate knowledge of? Are there colours we desire, ones that we would travel miles and days for? Or do we seek nothing but extremes, from the rugged solitude of cliffs beyond reach to an unimpeachable sense of do-nothingness invoked by warm summer haze and sands formed by the near-eternal coming and going of the tides? Is there beauty in the middling? Or—can there be beauty in the middling? If only your heart did not betray your answer.&lt;/p&gt;
 
 &lt;p&gt;I. There’s a couple making out on this beach. I wonder if it’s not uncomfortable; I suppose that is why they are fully clothed.&lt;br /&gt;
-II. Two people playing fetch here with their dogs. The catch is, well, the dogs never catch the thrown object—a pebble—and the object is never returned. Is it still a game of fetch if nothing is ever retrieved? I wonder too what the dogs think, but I imagine that they’d rather run than find.&lt;br /&gt;
+II. Two people are playing fetch here with their dogs. The catch is, well, the dogs never catch the thrown object—a pebble—and the object is never returned. Is it still a game of fetch if nothing is ever retrieved? I wonder too what the dogs think, but I imagine that they’d rather run than find.&lt;br /&gt;
 III. Speaking of long summer days, would a beach at a place with endless summer days be enjoyable? Do we seek out beginnings and endings? Or is it more so that there is beauty at such an hour?&lt;/p&gt;
 
 </content>
