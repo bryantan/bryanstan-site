@@ -160,6 +160,672 @@
 
   <head>
   <!-- Canonical link to help search engines -->
+  <link rel="canonical" href="/texts/september-scotland/" />
+
+  <!-- Basic meta elements -->
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+
+  <!-- Enable responsiveness on mobile devices -->
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1" />
+
+  <!-- Dublin Core metadata for Zotero -->
+  <meta name="DC.title" content="September Scotland" />
+  <meta name="DC.creator" content="" />
+  <meta name="DC.contributor" content="" />
+  <meta name="DC.date" content="" />
+  <meta name="DC.rights" content="" />
+  <meta name="DC.source" content="Bryan Tan" />
+
+    <!-- Open Graph metadata -->
+    
+    <meta property="og:title" content="September Scotland" />
+    <meta property="og:description" content="An Ed edition" />
+    <meta property="fb:admins" content="elotroalex" />
+    <meta property="og:type" content="article" />
+    <meta property="og:url" content="http://localhost:4000/texts/september-scotland/" />
+    <meta property="fb:app_id" content="589495744558280" />
+    <!--<meta property="og:image" content="http://localhost:4000/assets/open-graph-logo.png" />-->
+    <meta property="og:image:width" content="200" />
+    <meta property="og:image:height" content="200" />
+    
+
+  <title>
+    
+      Bryan Tan | September Scotland
+    
+  </title>
+
+  <!-- CSS link -->
+  <link rel="stylesheet" href="/assets/css/style.css" />
+
+  <!-- Icons -->
+  <link rel="apple-touch-icon-precomposed" sizes="180x180" href="/assets/apple-touch-icon-precomposed.png" />
+  <link rel="shortcut icon" href="/assets/favicon.ico" />
+
+  <!-- RSS -->
+  <link rel="alternate" type="application/rss+xml" title="RSS" href="/atom.xml" />
+</head>
+
+
+  <body class="theme-base-">
+
+    <!-- This if statement decides which sidebar to use -->
+    
+    <!--
+  Target for toggling the sidebar `.sidebar-checkbox` is for regular styles, `#sidebar-checkbox` for
+  behavior.
+-->
+<input type="checkbox" class="sidebar-checkbox" id="sidebar-checkbox" />
+
+<!-- Toggleable sidebar -->
+<div class="sidebar" id="sidebar">
+  <nav class="sidebar-nav">
+    <a class="sidebar-nav-item" href="/">Home</a>
+
+    
+
+    
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+          <a class="sidebar-nav-item" href="/about/">About</a>
+        
+      
+    
+      
+    
+      
+    
+      
+    
+      
+        
+          <a class="sidebar-nav-item" href="/places/">Places</a>
+        
+      
+    
+      
+        
+          <a class="sidebar-nav-item" href="/poetry/">Poetry</a>
+        
+      
+    
+      
+        
+          <a class="sidebar-nav-item" href="/reading/">Reading</a>
+        
+      
+    
+      
+        
+          <a class="sidebar-nav-item" href="/search/">Search</a>
+        
+      
+    
+
+    <!-- The code below is used for manually entered links  -->
+  <!--
+    <span style='cursor:pointer;' onclick="javascript:var hypothesis = document.createElement('script');
+      hypothesis.setAttribute('src','https://hypothes.is/embed.js');
+      document.head.appendChild(hypothesis);"><a class="sidebar-nav-item">Annotate me</a></span>
+  -->
+
+  <!--
+    <a class="sidebar-nav-item" href="https://via.hypothes.is/http://localhost:4000/texts/september-scotland//" data-proofer-ignore>Annotate me</a>
+    <script src="https://hypothes.is/embed.js" async></script>
+  -->
+
+  <!--<a class="sidebar-nav-item" href="https://github.com/minicomp/ed" target="_blank">GitHub project</a>-->
+  </nav>
+</div>
+
+    
+
+    <!--
+      Wrap is the content to shift when toggling the sidebar. We wrap the content to avoid any CSS
+      collisions with our real content.
+    -->
+    <div class="wrap">
+      <div class="container content" id="main">
+        <div class="post">
+  <h1 class="text-title">
+     <a href="/september-scotland">
+        September Scotland
+     </a>
+  </h1>
+  
+
+  <p>If there is one thought from this time in Scotland, it is that Scotland is kind—unexpectedly, and almost overwhelmingly so, as though we are aliens, still in tact, swallowed by the earth beneath, and beneficiaries of a graciousness that needs no words. Its landscape was quite different from my expectations; less sheer cliffs and jagged rock, and more rolling hills and soft, smooth waters. The colours are gentle, the rain gentle, the sheep gentle. The people, too, and more so than anything else. There is a notion that the weather here is a ravaging monster with a soul of its own. Perhaps that is true—September says nothing of extremes—but even in the rains, without cover and up into the heights of the Fairy Pools, the heavens still feel to be a caressing hand upon this land, and I can’t see that to be otherwise. And so it is with these places so dear to the earth. It is not only a ruggedness borne out in such environments; it is an understanding, an acknowledgement of our place here, and what it means to be a part of this world. And that, too, is what it means to be gentle.</p>
+
+</div>
+
+      </div>
+    </div>
+
+    <label for="sidebar-checkbox" class="sidebar-toggle"></label>
+
+    <script>
+
+    // Highlight search Query
+    var url = window.location.href;
+      if (url.lastIndexOf("?q=") > 0) {
+        // get the index of the parameter, add three (to account for length)
+        var stringloc = url.lastIndexOf("?q=") + 3;
+        // get the substring (query) and decode
+        var searchquery = decodeURIComponent(url.substr(stringloc));
+        // regex matches at beginning of line, end of line or word boundary, useful for poetry
+        var regex = new RegExp("(?:^|\\b)(" + searchquery + ")(?:$|\\b)", "gim");
+        // get, add mark and then set content
+        var content = document.getElementById("main").innerHTML;
+        document.getElementById("main").innerHTML = content.replace(regex, "<mark>$1</mark>");
+      }
+
+      // Toggle sidebar
+      (function(document) {
+        var toggle = document.querySelector('.sidebar-toggle');
+        var sidebar = document.querySelector('#sidebar');
+        var checkbox = document.querySelector('#sidebar-checkbox');
+
+        document.addEventListener('click', function(e) {
+          var target = e.target;
+
+          if(!checkbox.checked ||
+             !sidebar.contains(target) ||
+             (target === checkbox || target === toggle)) return;
+
+          checkbox.checked = false;
+        }, false);
+      })(document);
+    </script>
+
+<!-- Facebook SDK for JavaScript -->
+<script>
+  window.fbAsyncInit = function() {
+    FB.init({
+      appId      : '589495744558280',
+      xfbml      : true,
+      version    : 'v2.6'
+    });
+  };
+
+  (function(d, s, id){
+     var js, fjs = d.getElementsByTagName(s)[0];
+     if (d.getElementById(id)) {return;}
+     js = d.createElement(s); js.id = id;
+     js.src = "//connect.facebook.net/en_US/sdk.js";
+     fjs.parentNode.insertBefore(js, fjs);
+   }(document, 'script', 'facebook-jssdk'));
+</script>
+  </body>
+</html>
+
+<html lang="en-us">
+
+  <head>
+  <!-- Canonical link to help search engines -->
+  <link rel="canonical" href="/texts/nice-monaco-corsica/" />
+
+  <!-- Basic meta elements -->
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+
+  <!-- Enable responsiveness on mobile devices -->
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1" />
+
+  <!-- Dublin Core metadata for Zotero -->
+  <meta name="DC.title" content="Nice, Monaco, Corsica" />
+  <meta name="DC.creator" content="" />
+  <meta name="DC.contributor" content="" />
+  <meta name="DC.date" content="" />
+  <meta name="DC.rights" content="" />
+  <meta name="DC.source" content="Bryan Tan" />
+
+    <!-- Open Graph metadata -->
+    
+    <meta property="og:title" content="Nice, Monaco, Corsica" />
+    <meta property="og:description" content="An Ed edition" />
+    <meta property="fb:admins" content="elotroalex" />
+    <meta property="og:type" content="article" />
+    <meta property="og:url" content="http://localhost:4000/texts/nice-monaco-corsica/" />
+    <meta property="fb:app_id" content="589495744558280" />
+    <!--<meta property="og:image" content="http://localhost:4000/assets/open-graph-logo.png" />-->
+    <meta property="og:image:width" content="200" />
+    <meta property="og:image:height" content="200" />
+    
+
+  <title>
+    
+      Bryan Tan | Nice, Monaco, Corsica
+    
+  </title>
+
+  <!-- CSS link -->
+  <link rel="stylesheet" href="/assets/css/style.css" />
+
+  <!-- Icons -->
+  <link rel="apple-touch-icon-precomposed" sizes="180x180" href="/assets/apple-touch-icon-precomposed.png" />
+  <link rel="shortcut icon" href="/assets/favicon.ico" />
+
+  <!-- RSS -->
+  <link rel="alternate" type="application/rss+xml" title="RSS" href="/atom.xml" />
+</head>
+
+
+  <body class="theme-base-">
+
+    <!-- This if statement decides which sidebar to use -->
+    
+    <!--
+  Target for toggling the sidebar `.sidebar-checkbox` is for regular styles, `#sidebar-checkbox` for
+  behavior.
+-->
+<input type="checkbox" class="sidebar-checkbox" id="sidebar-checkbox" />
+
+<!-- Toggleable sidebar -->
+<div class="sidebar" id="sidebar">
+  <nav class="sidebar-nav">
+    <a class="sidebar-nav-item" href="/">Home</a>
+
+    
+
+    
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+          <a class="sidebar-nav-item" href="/about/">About</a>
+        
+      
+    
+      
+    
+      
+    
+      
+    
+      
+        
+          <a class="sidebar-nav-item" href="/places/">Places</a>
+        
+      
+    
+      
+        
+          <a class="sidebar-nav-item" href="/poetry/">Poetry</a>
+        
+      
+    
+      
+        
+          <a class="sidebar-nav-item" href="/reading/">Reading</a>
+        
+      
+    
+      
+        
+          <a class="sidebar-nav-item" href="/search/">Search</a>
+        
+      
+    
+
+    <!-- The code below is used for manually entered links  -->
+  <!--
+    <span style='cursor:pointer;' onclick="javascript:var hypothesis = document.createElement('script');
+      hypothesis.setAttribute('src','https://hypothes.is/embed.js');
+      document.head.appendChild(hypothesis);"><a class="sidebar-nav-item">Annotate me</a></span>
+  -->
+
+  <!--
+    <a class="sidebar-nav-item" href="https://via.hypothes.is/http://localhost:4000/texts/nice-monaco-corsica//" data-proofer-ignore>Annotate me</a>
+    <script src="https://hypothes.is/embed.js" async></script>
+  -->
+
+  <!--<a class="sidebar-nav-item" href="https://github.com/minicomp/ed" target="_blank">GitHub project</a>-->
+  </nav>
+</div>
+
+    
+
+    <!--
+      Wrap is the content to shift when toggling the sidebar. We wrap the content to avoid any CSS
+      collisions with our real content.
+    -->
+    <div class="wrap">
+      <div class="container content" id="main">
+        <div class="post">
+  <h1 class="text-title">
+     <a href="/nice-monaco-corsica">
+        Nice, Monaco, Corsica
+     </a>
+  </h1>
+  
+
+  <p>Of Oran, the city of his childhood, Albert Camus had said, “these are lands of innocence.” It was these words that I could not escape through my days in the South of France and on Corsica; Nice and France are, an ocean away,  much different from Oran and Algeria, and Camus’s notion of such innocence, pantheistic and near-primal, doesn’t apply quite so well to these places, but the resonance of lands built by the coast of the Mediterranean, under uninterrupted days of sun, rang persistent. To us in a different age, this may perhaps be as close as we can get to his innocence. I felt that some in Nice, both at a villa set upon the mountains with a clear view down to the undulating city and still, matte ocean, and in a converted worker’s flat, un-air conditioned and but a few dusty steps away from the pier, in that slow, unhurried pace and smell of warmth that permeates the air, the chattering of pebbles and feet that walk upon them, ship horns and the glint of numerous rays and salt on the back of the hand and in the hair. It was there, less, but there still in Monaco, down quiet streets beneath old looming city walls, among buildings of all styles and identities, against the dolosse enabling the safe havens of wealth and extravagance, and concrete constructions made of sands from many miles away. But this innocence was most present, of course, in Corsica. We, as the only foreigners, inundated by the native language of Camus, undeserving recipients of a kindness present only far away, driving around Cap Corse, its villages, harbours, beaches. At the vantage point at Moulin Mattei, too, from where one looks upon the east and the west, there too the glimmer of the sun off the ocean is soft, gentle, lulling you into a breathless trance, eyes transfixed upon mirrored gradients, with but imperfect ships marring a dream-like surface. The colours are innocent; not of man, not capable of man, and gone by the time you reach the water’s edge, replaced by reflections and buoys and laughter. Yet even they are innocent, and you can’t help but hold your breath, to listen close to the life around. And that is the innocence of our age—not what is far from the civilised man, but that what we do not know and do not understand.</p>
+
+</div>
+
+      </div>
+    </div>
+
+    <label for="sidebar-checkbox" class="sidebar-toggle"></label>
+
+    <script>
+
+    // Highlight search Query
+    var url = window.location.href;
+      if (url.lastIndexOf("?q=") > 0) {
+        // get the index of the parameter, add three (to account for length)
+        var stringloc = url.lastIndexOf("?q=") + 3;
+        // get the substring (query) and decode
+        var searchquery = decodeURIComponent(url.substr(stringloc));
+        // regex matches at beginning of line, end of line or word boundary, useful for poetry
+        var regex = new RegExp("(?:^|\\b)(" + searchquery + ")(?:$|\\b)", "gim");
+        // get, add mark and then set content
+        var content = document.getElementById("main").innerHTML;
+        document.getElementById("main").innerHTML = content.replace(regex, "<mark>$1</mark>");
+      }
+
+      // Toggle sidebar
+      (function(document) {
+        var toggle = document.querySelector('.sidebar-toggle');
+        var sidebar = document.querySelector('#sidebar');
+        var checkbox = document.querySelector('#sidebar-checkbox');
+
+        document.addEventListener('click', function(e) {
+          var target = e.target;
+
+          if(!checkbox.checked ||
+             !sidebar.contains(target) ||
+             (target === checkbox || target === toggle)) return;
+
+          checkbox.checked = false;
+        }, false);
+      })(document);
+    </script>
+
+<!-- Facebook SDK for JavaScript -->
+<script>
+  window.fbAsyncInit = function() {
+    FB.init({
+      appId      : '589495744558280',
+      xfbml      : true,
+      version    : 'v2.6'
+    });
+  };
+
+  (function(d, s, id){
+     var js, fjs = d.getElementsByTagName(s)[0];
+     if (d.getElementById(id)) {return;}
+     js = d.createElement(s); js.id = id;
+     js.src = "//connect.facebook.net/en_US/sdk.js";
+     fjs.parentNode.insertBefore(js, fjs);
+   }(document, 'script', 'facebook-jssdk'));
+</script>
+  </body>
+</html>
+
+<html lang="en-us">
+
+  <head>
+  <!-- Canonical link to help search engines -->
+  <link rel="canonical" href="/texts/a-to-z/" />
+
+  <!-- Basic meta elements -->
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+
+  <!-- Enable responsiveness on mobile devices -->
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1" />
+
+  <!-- Dublin Core metadata for Zotero -->
+  <meta name="DC.title" content="A to Z" />
+  <meta name="DC.creator" content="" />
+  <meta name="DC.contributor" content="" />
+  <meta name="DC.date" content="" />
+  <meta name="DC.rights" content="" />
+  <meta name="DC.source" content="Bryan Tan" />
+
+    <!-- Open Graph metadata -->
+    
+    <meta property="og:title" content="A to Z" />
+    <meta property="og:description" content="An Ed edition" />
+    <meta property="fb:admins" content="elotroalex" />
+    <meta property="og:type" content="article" />
+    <meta property="og:url" content="http://localhost:4000/texts/a-to-z/" />
+    <meta property="fb:app_id" content="589495744558280" />
+    <!--<meta property="og:image" content="http://localhost:4000/assets/open-graph-logo.png" />-->
+    <meta property="og:image:width" content="200" />
+    <meta property="og:image:height" content="200" />
+    
+
+  <title>
+    
+      Bryan Tan | A to Z
+    
+  </title>
+
+  <!-- CSS link -->
+  <link rel="stylesheet" href="/assets/css/style.css" />
+
+  <!-- Icons -->
+  <link rel="apple-touch-icon-precomposed" sizes="180x180" href="/assets/apple-touch-icon-precomposed.png" />
+  <link rel="shortcut icon" href="/assets/favicon.ico" />
+
+  <!-- RSS -->
+  <link rel="alternate" type="application/rss+xml" title="RSS" href="/atom.xml" />
+</head>
+
+
+  <body class="theme-base-">
+
+    <!-- This if statement decides which sidebar to use -->
+    
+    <!--
+  Target for toggling the sidebar `.sidebar-checkbox` is for regular styles, `#sidebar-checkbox` for
+  behavior.
+-->
+<input type="checkbox" class="sidebar-checkbox" id="sidebar-checkbox" />
+
+<!-- Toggleable sidebar -->
+<div class="sidebar" id="sidebar">
+  <nav class="sidebar-nav">
+    <a class="sidebar-nav-item" href="/">Home</a>
+
+    
+
+    
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+          <a class="sidebar-nav-item" href="/about/">About</a>
+        
+      
+    
+      
+    
+      
+    
+      
+    
+      
+        
+          <a class="sidebar-nav-item" href="/places/">Places</a>
+        
+      
+    
+      
+        
+          <a class="sidebar-nav-item" href="/poetry/">Poetry</a>
+        
+      
+    
+      
+        
+          <a class="sidebar-nav-item" href="/reading/">Reading</a>
+        
+      
+    
+      
+        
+          <a class="sidebar-nav-item" href="/search/">Search</a>
+        
+      
+    
+
+    <!-- The code below is used for manually entered links  -->
+  <!--
+    <span style='cursor:pointer;' onclick="javascript:var hypothesis = document.createElement('script');
+      hypothesis.setAttribute('src','https://hypothes.is/embed.js');
+      document.head.appendChild(hypothesis);"><a class="sidebar-nav-item">Annotate me</a></span>
+  -->
+
+  <!--
+    <a class="sidebar-nav-item" href="https://via.hypothes.is/http://localhost:4000/texts/a-to-z//" data-proofer-ignore>Annotate me</a>
+    <script src="https://hypothes.is/embed.js" async></script>
+  -->
+
+  <!--<a class="sidebar-nav-item" href="https://github.com/minicomp/ed" target="_blank">GitHub project</a>-->
+  </nav>
+</div>
+
+    
+
+    <!--
+      Wrap is the content to shift when toggling the sidebar. We wrap the content to avoid any CSS
+      collisions with our real content.
+    -->
+    <div class="wrap">
+      <div class="container content" id="main">
+        <div class="poetry">
+  <h1 class="text-title">
+     <a href="/a-to-z">
+        A to Z
+     </a>
+  </h1>
+  <p class="byline"></p>
+  <ul>
+  <li>If I had a letter for every year</li>
+  <li class="indent-1">I could spell ‘azure’:</li>
+  <li>A colour of a coast</li>
+  <li class="indent-1">that draws desires upon its warm waters</li>
+  <li>And calls forth ships and souls,</li>
+  <li class="indent-1">and lighthouses and moons, new and full</li>
+  <li>A colour, all but perfectly clear</li>
+  <li class="indent-1">at the furthest reaches of its embrace</li>
+  <li>And indistinguishable</li>
+  <li class="indent-1">from the sky at the line beyond the eyes</li>
+  <li>A colour transcending name and form,</li>
+  <li class="indent-1">beyond letters and words, cadences and tides</li>
+  <li>I could spell it, a radiant desert</li>
+  <li class="indent-1">at home against a land it made beautiful</li>
+  <li>devoured in the instant,</li>
+  <li class="indent-1">belonging to millennia</li>
+  <li>I could spell it, and that would be all I could do</li>
+  <li class="indent-1">and that would be enough</li>
+</ul>
+
+</div>
+
+      </div>
+    </div>
+
+    <label for="sidebar-checkbox" class="sidebar-toggle"></label>
+
+    <script>
+
+    // Highlight search Query
+    var url = window.location.href;
+      if (url.lastIndexOf("?q=") > 0) {
+        // get the index of the parameter, add three (to account for length)
+        var stringloc = url.lastIndexOf("?q=") + 3;
+        // get the substring (query) and decode
+        var searchquery = decodeURIComponent(url.substr(stringloc));
+        // regex matches at beginning of line, end of line or word boundary, useful for poetry
+        var regex = new RegExp("(?:^|\\b)(" + searchquery + ")(?:$|\\b)", "gim");
+        // get, add mark and then set content
+        var content = document.getElementById("main").innerHTML;
+        document.getElementById("main").innerHTML = content.replace(regex, "<mark>$1</mark>");
+      }
+
+      // Toggle sidebar
+      (function(document) {
+        var toggle = document.querySelector('.sidebar-toggle');
+        var sidebar = document.querySelector('#sidebar');
+        var checkbox = document.querySelector('#sidebar-checkbox');
+
+        document.addEventListener('click', function(e) {
+          var target = e.target;
+
+          if(!checkbox.checked ||
+             !sidebar.contains(target) ||
+             (target === checkbox || target === toggle)) return;
+
+          checkbox.checked = false;
+        }, false);
+      })(document);
+    </script>
+
+<!-- Facebook SDK for JavaScript -->
+<script>
+  window.fbAsyncInit = function() {
+    FB.init({
+      appId      : '589495744558280',
+      xfbml      : true,
+      version    : 'v2.6'
+    });
+  };
+
+  (function(d, s, id){
+     var js, fjs = d.getElementsByTagName(s)[0];
+     if (d.getElementById(id)) {return;}
+     js = d.createElement(s); js.id = id;
+     js.src = "//connect.facebook.net/en_US/sdk.js";
+     fjs.parentNode.insertBefore(js, fjs);
+   }(document, 'script', 'facebook-jssdk'));
+</script>
+  </body>
+</html>
+
+<html lang="en-us">
+
+  <head>
+  <!-- Canonical link to help search engines -->
   <link rel="canonical" href="/texts/taipei-city-of-rain/" />
 
   <!-- Basic meta elements -->
