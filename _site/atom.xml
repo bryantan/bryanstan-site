@@ -4,7 +4,7 @@
  <title>Bryan Tan</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2020-02-24T19:22:08+00:00</updated>
+ <updated>2021-01-09T19:07:35+08:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Bryan Tan</name>
@@ -15,7 +15,7 @@
  <entry>
    <title>Concentric</title>
    <link href="http://localhost:4000/concentric/"/>
-   <updated>2019-12-16T00:00:00+00:00</updated>
+   <updated>2019-12-16T00:00:00+08:00</updated>
    <id>http://localhost:4000/concentric</id>
    <content type="html">
 &lt;ul&gt;
@@ -32,7 +32,7 @@
  <entry>
    <title>Brussels</title>
    <link href="http://localhost:4000/brussels/"/>
-   <updated>2019-12-15T00:00:00+00:00</updated>
+   <updated>2019-12-15T00:00:00+08:00</updated>
    <id>http://localhost:4000/brussels</id>
    <content type="html">
 &lt;p&gt;I’ve heard of Brussels being compared to DC, with DC being the capital of a large nation, and Brussels—if you’d allow me some generosity—the capital of a continent. A weekday, commuting population, overrun with tourists at the main sights on weekends but dead otherwise. It’s a fair assessment in some ways, but Brussels to me was much more interesting. It’s a thoroughly multicutural city, not only as a whole, but in its individuals, born in the crossroads of nations and languages. It is neither rooted in, nor revels in its past, yet it remains conscious of the histories that built its streets, as though all moments of its existence are lived at all times. It is distinctly unremarkable; a city of cities, a world of worlds, and deeply itself.&lt;/p&gt;
@@ -43,7 +43,7 @@
  <entry>
    <title>節日</title>
    <link href="http://localhost:4000/a-contemporary-celebration/"/>
-   <updated>2019-11-02T00:00:00+00:00</updated>
+   <updated>2019-11-02T00:00:00+08:00</updated>
    <id>http://localhost:4000/a-contemporary-celebration</id>
    <content type="html">
 &lt;ul&gt;
@@ -61,7 +61,7 @@
  <entry>
    <title>September Scotland</title>
    <link href="http://localhost:4000/september-scotland/"/>
-   <updated>2019-09-26T00:00:00+01:00</updated>
+   <updated>2019-09-26T00:00:00+08:00</updated>
    <id>http://localhost:4000/september-scotland</id>
    <content type="html">
 &lt;p&gt;If there is one thought from this time in Scotland, it is that Scotland is kind—unexpectedly, and almost overwhelmingly so, as though we are aliens, still in tact, swallowed by the earth beneath, and beneficiaries of a graciousness that needs no words. Its landscape was quite different from my expectations; less sheer cliffs and jagged rock, and more rolling hills and soft, smooth waters. The colours are gentle, the rain gentle, the sheep gentle. The people, too, and more so than anything else. There is a notion that the weather here is a ravaging monster with a soul of its own. Perhaps that is true—September says nothing of extremes—but even in the rains, without cover and up into the heights of the Fairy Pools, the heavens still feel to be a caressing hand upon this land, and I can’t see that to be otherwise. And so it is with these places so dear to the earth. It is not only a ruggedness borne out in such environments; it is an understanding, an acknowledgement of our place here, and what it means to be a part of this world. And that, too, is what it means to be gentle.&lt;/p&gt;
@@ -72,7 +72,7 @@
  <entry>
    <title>Nice, Monaco, Corsica</title>
    <link href="http://localhost:4000/nice-monaco-corsica/"/>
-   <updated>2019-08-31T00:00:00+01:00</updated>
+   <updated>2019-08-31T00:00:00+08:00</updated>
    <id>http://localhost:4000/nice-monaco-corsica</id>
    <content type="html">
 &lt;p&gt;Of Oran, the city of his childhood, Albert Camus had said, “these are lands of innocence.” It was these words that I could not escape through my days in the South of France and on Corsica; Nice and France are, an ocean away,  much different from Oran and Algeria, and Camus’s notion of such innocence, pantheistic and near-primal, doesn’t apply quite so well to these places, but the resonance of lands built by the coast of the Mediterranean, under uninterrupted days of sun, rang persistent. To us in a different age, this may perhaps be as close as we can get to his innocence. I felt that some in Nice, both at a villa set upon the mountains with a clear view down to the undulating city and still, matte ocean, and in a converted worker’s flat, un-air conditioned and but a few dusty steps away from the pier, in that slow, unhurried pace and smell of warmth that permeates the air, the chattering of pebbles and feet that walk upon them, ship horns and the glint of numerous rays and salt on the back of the hand and in the hair. It was there, less, but there still in Monaco, down quiet streets beneath old looming city walls, among buildings of all styles and identities, against the dolosse enabling the safe havens of wealth and extravagance, and concrete constructions made of sands from many miles away. But this innocence was most present, of course, in Corsica. We, as the only foreigners, inundated by the native language of Camus, undeserving recipients of a kindness present only far away, driving around Cap Corse, its villages, harbours, beaches. At the vantage point at Moulin Mattei, too, from where one looks upon the east and the west, there too the glimmer of the sun off the ocean is soft, gentle, lulling you into a breathless trance, eyes transfixed upon mirrored gradients, with but imperfect ships marring a dream-like surface. The colours are innocent; not of man, not capable of man, and gone by the time you reach the water’s edge, replaced by reflections and buoys and laughter. Yet even they are innocent, and you can’t help but hold your breath, to listen close to the life around. And that is the innocence of our age—not what is far from the civilised man, but that what we do not know and do not understand.&lt;/p&gt;
@@ -83,7 +83,7 @@
  <entry>
    <title>A to Z</title>
    <link href="http://localhost:4000/a-to-z/"/>
-   <updated>2019-08-26T00:00:00+01:00</updated>
+   <updated>2019-08-26T00:00:00+08:00</updated>
    <id>http://localhost:4000/a-to-z</id>
    <content type="html">
 &lt;ul&gt;
@@ -113,7 +113,7 @@
  <entry>
    <title>New Yorker on Hacker News</title>
    <link href="http://localhost:4000/new-yorker-on-hacker-news/"/>
-   <updated>2019-08-08T00:00:00+01:00</updated>
+   <updated>2019-08-08T00:00:00+08:00</updated>
    <id>http://localhost:4000/new-yorker-on-hacker-news</id>
    <content type="html">
 &lt;p&gt;I love this. Something that I love, talking about something that I loathe to love (or love to loathe?). So many gems here, such as:&lt;/p&gt;
@@ -138,7 +138,7 @@
  <entry>
    <title>Taipei, a City of Rain</title>
    <link href="http://localhost:4000/taipei-city-of-rain/"/>
-   <updated>2019-07-30T00:00:00+01:00</updated>
+   <updated>2019-07-30T00:00:00+08:00</updated>
    <id>http://localhost:4000/taipei-city-of-rain</id>
    <content type="html">
 &lt;p&gt;Living in London now, the first reaction I get from most people when I say I moved from California is one of shock. California, to what seems like just about everyone, is a paradise in which the sun is ever unobscured and you drive your convertible, hood down, through radiant streets, and lie beside the sea on equally golden sands, day after day. Why would someone ever come here? There’s a rather pernicious belief underlying these reactions, held by both locals and anyone who knows anything about this city—that London is dreary, grey and rainy all the time. I wonder what it is that has made such a lie so pervasive; as someone who has spent a few years in Pittsburgh, I’m a bit offended when people think the weather here is unpleasant to the point of being the first thing someone thinks about when they hear the name of this city.&lt;/p&gt;
@@ -157,7 +157,7 @@
  <entry>
    <title>Was the Automotive Era a Terrible Mistake?</title>
    <link href="http://localhost:4000/automotive-era-terrible-mistake/"/>
-   <updated>2019-07-22T00:00:00+01:00</updated>
+   <updated>2019-07-22T00:00:00+08:00</updated>
    <id>http://localhost:4000/automotive-era-terrible-mistake</id>
    <content type="html">
 &lt;p&gt;I’ve never really wanted to own a car—it has always seemed to be quite the hassle, whether driving or parking, maintenance and insurance, or being both responsible for and at the whims of those around you. I probably could have saved dozens of hours of my life if I had a car back when I was in California; hopefully I’ve made up for it by the number of interesting and insightful (and inconsequential to anything save the sating of my curiousity) articles I’ve read in all those rideshares and Caltrain journeys. There is a freedom, though, in being able to drive. To be able to be somewhere on your own terms, at, more or less, your own time, to be able to go further than you would have on your own legs; to be alone on the road at night, within a kingdom that stretches as far as you can go, and safe from the elements, from the wild and the unknown. That’s why biking to me feels like a break from what we are conditioned to desire: personal liberty, efficiency, control. It’s even sweeter, of course, when you are faster on two wheels than someone on four.&lt;/p&gt;
@@ -170,7 +170,7 @@
  <entry>
    <title>Offshore</title>
    <link href="http://localhost:4000/offshore/"/>
-   <updated>2019-07-21T00:00:00+01:00</updated>
+   <updated>2019-07-21T00:00:00+08:00</updated>
    <id>http://localhost:4000/offshore</id>
    <content type="html">
 &lt;ul&gt;
@@ -201,7 +201,7 @@
  <entry>
    <title>Brighton</title>
    <link href="http://localhost:4000/brighton/"/>
-   <updated>2019-07-21T00:00:00+01:00</updated>
+   <updated>2019-07-21T00:00:00+08:00</updated>
    <id>http://localhost:4000/brighton</id>
    <content type="html">
 &lt;p&gt;It just occurred to me that I’ve never been to a beach with such a late sunset. It’s a shame, isn’t it? For the days to be long, in a place where there are no sands to sink your feet into. Yet to say so is a bit facetious; I am told there are some nice beaches somewhere in this country. Perhaps the shame is that such places are always further, rather than closer.
@@ -217,7 +217,7 @@ III. Speaking of long summer days, would a beach at a place with endless summer 
  <entry>
    <title>Hours, give or take</title>
    <link href="http://localhost:4000/hours-give-or-take/"/>
-   <updated>2019-06-04T00:00:00+01:00</updated>
+   <updated>2019-06-04T00:00:00+08:00</updated>
    <id>http://localhost:4000/hours-give-or-take</id>
    <content type="html">
 &lt;p&gt;4AM, and your eyes open, with the lucidity of one who has regained sight after a decade in darkness, to the muted room you fell asleep in some inadequate number of hours ago. The city is in a silver silence, save for the wind blowing over slicked asphalt roads and a heartbeat you named your own. You see, in visions of fireworks, as the one who moulded this diorama, and you command the multitudes, captivated by the shackles of slumber you have cast off. Here in the quiet you lord over all thoughts, all desires, and you expel them, leaving only a canvas of white that shall fade into colours as the day rises; still, you layer the primer and the paint, over and over, wordless, awake.&lt;/p&gt;
@@ -234,7 +234,7 @@ III. Speaking of long summer days, would a beach at a place with endless summer 
  <entry>
    <title>A photo booth of four days</title>
    <link href="http://localhost:4000/photo-booth-of-four-days/"/>
-   <updated>2019-05-25T00:00:00+01:00</updated>
+   <updated>2019-05-25T00:00:00+08:00</updated>
    <id>http://localhost:4000/photo-booth-of-four-days</id>
    <content type="html">
 &lt;ul&gt;
@@ -253,7 +253,7 @@ III. Speaking of long summer days, would a beach at a place with endless summer 
  <entry>
    <title>SNAKISMS</title>
    <link href="http://localhost:4000/snakisms/"/>
-   <updated>2015-07-14T00:00:00+01:00</updated>
+   <updated>2015-07-14T00:00:00+08:00</updated>
    <id>http://localhost:4000/snakisms</id>
    <content type="html">
 &lt;p&gt;Okay, it’s not an article. Whatever.&lt;/p&gt;
